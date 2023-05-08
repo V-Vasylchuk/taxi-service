@@ -48,4 +48,4 @@ The user(driver) can add vehicle manufacturers, add car models, add drivers, con
 -  Java Servlets `v.4.0.1`
 -  Tomcat `v.9.0.73`
 ## Author:
-_Vasyl Vasylchuk_
+[_Vasyl Vasylchuk_](https://www.linkedin.com/in/vasyl-vasylchuk-632303273/)
